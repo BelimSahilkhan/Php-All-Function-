@@ -1,2 +1,2 @@
-# Php-All-Function-
-Php All Function
+# String Function 
+String Function 
